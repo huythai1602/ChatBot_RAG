@@ -1,0 +1,467 @@
+What does ICPC stand for?; International Collegiate Programming Contest
+What is the primary goal of ICPC?;To foster creativity, teamwork, and innovation in computer programming 
+How many team members are there in an ICPC team?; Three
+What type of competition is ICPC?; Algorithmic programming contest
+Which organization initially started ICPC?; Baylor University
+Which year did ICPC officially begin?;1970
+What is the maximum age of an ICPC participant?; 24 years old
+What is the eligibility criterion for students in ICPC?; Must be enrolled in a degree program
+How long does an ICPC contest last?; 5 hours
+What programming languages are typically allowed in ICPC?;C, C++, and Java 
+What is the primary focus of ICPC problems?; Algorithms and problem-solving
+What is the format of ICPC problems?;Description, input, and output 
+What is the role of a coach in ICPC?; To mentor and register the team
+What is the World Finals in ICPC?; The final competition where the best teams compete globally
+Which region hosts the most ICPC participants?; Asia
+How is ICPC structured?; Regional contests leading to the World Finals
+What is the maximum number of teams a university can send to the World Finals?; One
+What is the ICPC live scoreboard?; A real-time update of team rankings during the contest
+How are ICPC teams ranked?; By the number of problems solved and penalty time
+What is penalty time in ICPC?; The time calculated for incorrect submissions
+What happens if multiple teams solve the same number of problems?; The team with the least penalty time ranks higher
+What does ICPC require for submission?; Source code of the solution
+What is the typical prize for ICPC winners?;Trophies, medals, and recognition 
+Who administers ICPC globally?; ICPC Foundation
+How are regional contests organized?; By universities or institutions in each region
+What is the programming environment in ICPC contests?; Pre-configured machines with specific software
+"What does ""time to live"" mean in ICPC scoring?";The time from contest start to a correct submission 
+Can ICPC teams use the internet during contests?;No, internet access is prohibited 
+How are ties resolved in ICPC?; By examining submission times and penalties
+What is the name of the ICPC online judge platform?; ICPC Live Archive or Kattis
+Can ICPC teams use printed materials?;Yes, they can bring reference books and notes 
+How many problems are typically in an ICPC contest?; 8 to 13 problems
+What is a balloon used for in ICPC?; To indicate solved problems
+What is the role of problem setters in ICPC?; To create and test problems for contests
+"What is the ""freeze period"" in ICPC contests?";A period before the end when the scoreboard is not updated 
+Can students from different universities form an ICPC team?;No, all team members must belong to the same university 
+What is a wildcard spot in ICPC?; An additional slot for a deserving team to participate in the finals
+What is the ICPC Challenge?; A post-contest competition for solving unique tasks
+What is the minimum number of problems a team must solve to qualify for the World Finals?; There is no fixed number
+What tools are banned in ICPC?;Internet access, mobile devices, and any communication tools 
+What are test cases in ICPC?; Sets of input data to validate solutions
+"What is the purpose of the ""clarification request"" during ICPC?";To ask judges for clarification on problem statements 
+What is the most prestigious award in ICPC?; ICPC World Champion title
+Which continent consistently performs well in ICPC?; Asia
+What is the maximum submission size in ICPC?;It varies, typically around 64 KB 
+Can teams change members after registration?;No, team composition is fixed after registration 
+What is the importance of the coachs role in ICPC?;Coaches guide, train, and manage administrative tasks for the team 
+What is a dry run in ICPC?; A practice contest to familiarize with the environment
+What is the full form of ACM in ACM-ICPC?; Association for Computing Machinery
+What is the significance of the scoreboard freeze?; To add suspense and prevent strategic behavior
+What are auxiliary files in ICPC?; Non-source files like compiled binaries or test files
+How do teams practice for ICPC?; Using online judges and past problem archives
+What is a debugger used for in ICPC?; To identify and fix errors in code
+What is the runtime limit in ICPC?; Maximum allowed execution time for a program
+What is segmentation fault in ICPC?; A common runtime error indicating invalid memory access
+What is the input format in ICPC problems?; It is specified in the problem statement
+What is the output format in ICPC problems?; It is specified in the problem statement
+What is the purpose of a checker program in ICPC?; To verify the correctness of output
+What happens if a team uses forbidden resources?; The team is disqualified
+What is a tie-breaker problem in ICPC?;A problem used to resolve ties, if needed 
+What is the deadline for ICPC team registration?; It varies by regional contest schedule
+Can ICPC participants compete in multiple teams?;No, participants can join only one team per contest 
+What are standard libraries in ICPC?; Pre-installed libraries allowed for use in solutions
+What is partial scoring in ICPC?; There is no partial scoring
+What is the maximum length of code allowed in ICPC?;There is no strict limit, but it must compile and run within time constraints 
+Can teams use pseudocode in ICPC?;No, only executable code is accepted 
+What is the maximum number of participants allowed in a regional contest?; It depends on the host institution’s capacity
+Can team members use different programming languages?;Yes, as long as the language is allowed in the contest 
+What is the average difficulty level of ICPC problems?; They range from beginner to advanced algorithmic challenges
+What is the ICPC Registration System?; A platform for registering teams and managing contests
+What is the purpose of ICPC Onsite Contest?; To conduct the competition in a controlled environment
+What is the role of ICPC Regional Director?; To oversee and manage regional contests
+What is a runtime error in ICPC?; An error occurring during program execution
+What is ICPC pre-final preparation?; Training and practice to perform well in the World Finals
+How are ICPC problems tested?; Using predefined test cases created by problem setters
+What is the role of volunteers in ICPC contests?;To assist in logistics, problem distribution, and technical support 
+What is the success rate for ICPC problems?; It varies depending on the difficulty and the teams’ skills
+What is ICPCs global reach?; It involves participants from over 100 countries
+What is the World Finals venue rotation policy?; The venue changes every year
+What is the ICPC Alumni Network?; A community for former participants and coaches
+What is the most common ICPC programming error?; Logic errors in algorithms
+What is the penalty for a wrong submission in ICPC?; 20 minutes added to the total time
+What is a sample input/output in ICPC problems?; Example data to help teams understand the problem format
+What is the significance of ICPC participation?; It enhances problem-solving skills and career opportunities
+What is the role of an alternate in ICPC?; To substitute a team member in case of disqualification
+What is ICPC sponsorship?; Funding and support from organizations for the contest
+What is ICPC’s official website?; https://icpc.global
+What is the maximum team age in ICPC?; The combined age of team members cannot exceed 75 years
+What is the significance of the ICPC kickoff meeting?; To introduce rules and the contest environment to participants
+What is a recursive problem in ICPC?; A problem that can be solved using recursive algorithms
+What is the longest-running ICPC region?; North America
+What is the global ICPC participation trend?; It has been steadily increasing
+What is the submission verdict in ICPC?;The result of a submitted solution (e.g., Accepted, Wrong Answer) 
+What is the minimum hardware requirement for ICPC contests?;A standard PC with a monitor, keyboard, and pre-installed software 
+What is the importance of modular code in ICPC?; It makes debugging and testing easier during contests
+What is a greedy algorithm in ICPC?; An algorithm that makes the locally optimal choice at each step
+What is the ICPC headquarters location?;Houston, Texas, USA 
+What is the role of universities in ICPC?; To host regional contests and support student participation
+What is the average number of submissions in ICPC?;It depends on the difficulty, but typically 10-20 per team per contest 
+What is the official ICPC mascot?; Rascal the Raccoon
+What is the primary benefit of ICPC participation?;Improved problem-solving, teamwork, and global recognition 
+What is the difference between ICPC regionals and finals?;Regionals are qualifying rounds, while finals are the global championship 
+What is the most popular programming language used in ICPC?; C++
+What is the typical memory limit for ICPC problems?; Usually 256 MB or 512 MB
+What is a stack overflow error in ICPC?; An error caused by excessive recursion or memory use
+What is dynamic programming in ICPC?; A method for solving problems by breaking them into subproblems
+What is graph theory in ICPC?; The study of graphs to solve problems involving nodes and edges
+What is brute force in ICPC?; A straightforward approach to solve problems by checking all possibilities
+What is a priority queue in ICPC?; A data structure for managing prioritized elements efficiently
+What is BFS in ICPC?;Breadth-First Search, an algorithm for traversing graphs 
+What is DFS in ICPC?;Depth-First Search, an algorithm for graph traversal 
+What is backtracking in ICPC?; A method for finding solutions by exploring all possibilities recursively
+What is a test generator in ICPC?; A script used to create test cases for problems
+What is modular arithmetic in ICPC?; A system for arithmetic operations within a fixed range
+What is the purpose of constraints in ICPC problems?; To define problem limits and guide solution design
+What is a two-pointer technique in ICPC?; A method for solving problems using two iterators
+What is a greedy solution in ICPC?; A solution that chooses the best option at every step
+What is a binary search in ICPC?; An efficient algorithm for finding an element in a sorted array
+What is memoization in ICPC?; A technique to optimize recursion by storing results
+What is a hash map in ICPC?; A data structure for storing key-value pairs
+What is a minimum spanning tree in ICPC?; A subset of edges that connects all vertices with minimum cost
+What is a shortest path algorithm in ICPC?; An algorithm for finding the shortest route between nodes
+What is Floyd-Warshall in ICPC?; An algorithm for finding shortest paths in a weighted graph
+What is Dijkstras algorithm in ICPC?; A greedy algorithm for shortest path finding
+What is a union-find structure in ICPC?; A data structure for managing disjoint sets
+What is Kruskals algorithm in ICPC?; An algorithm to find a minimum spanning tree
+What is Prims algorithm in ICPC?; Another method for finding a minimum spanning tree
+What is a tree in ICPC?; A connected graph with no cycles
+What is a binary tree in ICPC?; A tree where each node has at most two children
+What is segment tree in ICPC?; A tree for range query problems
+What is a Fenwick tree in ICPC?; A tree for efficiently updating and querying cumulative frequencies
+What is bit manipulation in ICPC?; Techniques for operating on binary representations of numbers
+What is a sliding window in ICPC?; A method for solving problems by maintaining a subset of data
+What is computational geometry in ICPC?; The study of geometric problems and algorithms
+What is convex hull in ICPC?; The smallest convex shape containing all points in a set
+What is line sweep in ICPC?; An algorithmic technique for solving geometry problems
+What is dynamic connectivity in ICPC?; The ability to process changes in a graph efficiently
+What is an adjacency matrix in ICPC?; A matrix to represent graph connections
+What is an adjacency list in ICPC?; A list-based graph representation
+What is recursion in ICPC?; A function calling itself to solve a problem
+What is iterative deepening in ICPC?; A depth-first search with increasing depth limits
+What is combinatorics in ICPC?; The study of counting and arranging elements
+What is modular exponentiation in ICPC?; Efficient calculation of powers modulo a number
+What is a trie in ICPC?; A tree structure for storing strings
+What is string matching in ICPC?; Finding occurrences of a pattern in a text
+What is the KMP algorithm in ICPC?; An efficient string matching algorithm
+What is Rabin-Karp in ICPC?; A string matching algorithm using hashing
+What is Z-algorithm in ICPC?; An algorithm for string pattern matching
+What is the purpose of graph coloring in ICPC?; To assign colors to graph vertices with constraints
+What is maximum flow in ICPC?; The largest amount of flow that can move through a network
+What is Ford-Fulkerson in ICPC?; An algorithm for computing maximum flow
+What is Edmonds-Karp in ICPC?; A BFS-based implementation of Ford-Fulkerson
+What is a bipartite graph in ICPC?; A graph whose vertices can be divided into two disjoint sets
+What is matching in ICPC?; A set of edges without common vertices in a graph
+What is dynamic arrays in ICPC?; Arrays that can change size during execution
+What is prefix sum in ICPC?; A technique for cumulative sum calculation
+What is suffix array in ICPC?; An array of suffixes of a string sorted in lexicographic order
+What is a palindrome in ICPC?; A string that reads the same forward and backward
+What is Manacher’s algorithm in ICPC?; An efficient algorithm for finding palindromes
+What is LCS in ICPC?; Longest Common Subsequence
+What is LIS in ICPC?; Longest Increasing Subsequence
+What is the knapsack problem in ICPC?; An optimization problem involving weights and values
+What is NP-completeness in ICPC?; A class of problems with no known efficient solutions
+What is a heuristic in ICPC?; A practical approach to finding good enough solutions
+What is Monte Carlo algorithm in ICPC?; A probabilistic algorithm for solving problems
+What is a primality test in ICPC?; A method for determining if a number is prime
+What is Sieve of Eratosthenes in ICPC?; An efficient algorithm to find all primes up to a number
+What is number theory in ICPC?; The study of integers and their properties
+What is modular inverse in ICPC?; The inverse of a number under modulo arithmetic
+What is matrix exponentiation in ICPC?; Efficient calculation of matrix powers
+What is big-O notation in ICPC?; A way to describe algorithm complexity
+What is P in ICPC?; The class of problems solvable in polynomial time
+What is NP in ICPC?; The class of problems verifiable in polynomial time
+What is NP-hard in ICPC?; Problems at least as hard as the hardest problems in NP
+What is graph isomorphism in ICPC?; Determining if two graphs are structurally identical
+What is Hamiltonian path in ICPC?; A path visiting every vertex exactly once
+What is Eulerian path in ICPC?; A path visiting every edge exactly once
+What is TSP in ICPC?; Travelling Salesman Problem
+What is Bellman-Ford in ICPC?; An algorithm for shortest paths with negative weights
+What is matrix chain multiplication in ICPC?; An optimization problem for multiplying matrices
+What is FFT in ICPC?;Fast Fourier Transform, for efficient polynomial multiplication 
+What is convex optimization in ICPC?; Solving optimization problems with convex constraints
+What is maximum subarray sum in ICPC?; Finding the largest sum of a contiguous subarray
+What is Kadane’s algorithm in ICPC?; An efficient algorithm for maximum subarray sum
+What is combinatorial explosion in ICPC?; An exponential growth of possibilities
+What is divide and conquer in ICPC?; Breaking a problem into smaller subproblems
+What is recursion depth limit in ICPC?; The maximum depth a recursive call can reach
+What is cycle detection in ICPC?; Identifying cycles in a graph
+What is topological sorting in ICPC?; A linear ordering of vertices in a directed graph
+What is modular hashing in ICPC?; Hashing with modulo to reduce collision
+What is a queue in ICPC?;A first-in, first-out data structure 
+What is a stack in ICPC?;A last-in, first-out data structure 
+What is a deque in ICPC?; A double-ended queue allowing insertion and deletion at both ends
+What is the purpose of ICPC ranklists?; To display team performance and rankings
+In which year was the ICPC established?;1970
+Which university hosted the first ICPC?; Texas A&M University
+In what city was the first ICPC held?;College Station, Texas 
+Which venue hosted the first ICPC?; Texas A&M campus
+Which team won the first ICPC?; Alpha Omega from Texas A&M University
+Who were the members of the first winning team?;Bob Sedgewick, Jim Neighbors, and Bob Metcalfe 
+What medal did the first ICPC winning team receive?; Gold
+What was the score of the first ICPC winning team?; Not officially recorded
+What percentage of problems did the first ICPC winning team solve?; Not officially recorded
+What was the penalty time for the first ICPC winning team?; Not officially recorded
+What prize did the first ICPC winning team receive?; Recognition and a trophy
+In which year did the ICPC first include international teams?;1977
+Which country was the first non-US participant in the ICPC?; Canada
+Which university from Canada first participated in the ICPC?; University of Toronto
+In which year did the ICPC first award medals?;1982
+Which team won the first gold medal in ICPC?; Caltech
+Who were the members of the first gold medal-winning team?;David Gries, Robert Floyd, and Donald Knuth 
+What was the score of the first gold medal-winning team?; Not officially recorded
+What percentage of problems did the first gold medal-winning team solve?; Not officially recorded
+What was the penalty time for the first gold medal-winning team?; Not officially recorded
+What prize did the first gold medal-winning team receive?; Recognition and a trophy
+In which year did the ICPC first hold the World Finals outside the USA?;1989
+Which city hosted the first ICPC World Finals outside the USA?;Amsterdam, Netherlands 
+Which university hosted the 1989 ICPC World Finals?; Vrije Universiteit Amsterdam
+Which team won the 1989 ICPC World Finals?; University of Otago
+Who were the members of the 1989 winning team?;Andrew Smith, David Streader, and Mark Wilson 
+What medal did the 1989 winning team receive?; Gold
+What was the score of the 1989 winning team?; Not officially recorded
+What percentage of problems did the 1989 winning team solve?; Not officially recorded
+What was the penalty time for the 1989 winning team?; Not officially recorded
+What prize did the 1989 winning team receive?; Recognition and a trophy
+In which year did the ICPC introduce the current contest format?;1993
+What is the current format of the ICPC?; Teams of three students solving problems in five hours
+Which city hosted the 1993 ICPC World Finals?;Indianapolis, Indiana 
+Which university hosted the 1993 ICPC World Finals?; Ball State University
+Which team won the 1993 ICPC World Finals?; University of Melbourne
+Who were the members of the 1993 winning team?;David Sier, Michael McNamara, and Michael Walsh 
+What medal did the 1993 winning team receive?; Gold
+What was the score of the 1993 winning team?; Not officially recorded
+What percentage of problems did the 1993 winning team solve?; Not officially recorded
+What was the penalty time for the 1993 winning team?; Not officially recorded
+What prize did the 1993 winning team receive?; Recognition and a trophy
+In which year did the ICPC first have over 1,000 participating universities?;1998
+Which city hosted the 1998 ICPC World Finals?;Atlanta, Georgia 
+Which university hosted the 1998 ICPC World Finals?; Georgia Institute of Technology
+Which team won the 1998 ICPC World Finals?; St. Petersburg Institute of Fine Mechanics and Optics
+Who were the members of the 1998 winning team?;Andrey Lopatin, Andrey Stankevich, and Sergey Zolotykh 
+What medal did the 1998 winning team receive?; Gold
+What was the score of the 1998 winning team?; Not officially recorded
+What percentage of problems did the 1998 winning team solve?; Not officially recorded
+What was the penalty time for the 1998 winning team?; Not officially recorded
+What prize did the 1998 winning team receive?; Recognition and a trophy
+In which year did the ICPC first have over 2,000 participating universities?;2003
+Which city hosted the 2003 ICPC World Finals?;Beverly Hills, California 
+Which university hosted the 2003 ICPC World Finals?;University of California, Los Angeles 
+Which team won the 2003 ICPC World Finals?; Warsaw University
+Who were the members of the 2003 winning team?;Filip Wolski, Marcin Pilipczuk, and Marek Cygan 
+What medal did the 2003 winning team receive?; Gold
+What was the score of the 2003 winning team?; Not officially recorded
+What percentage of problems did the 2003 winning team solve?; Not officially recorded
+What was the penalty time for the 2003 winning team?; Not officially recorded
+What prize did the 2003 winning team receive?; Recognition and a trophy
+In which year did the ICPC first have over 3,000 participating universities?;2010
+Which city hosted the 2010 ICPC World Finals?;Harbin, China 
+Which university hosted the 2010 ICPC World Finals?; Harbin Engineering University
+Which team won the 2010 ICPC World Finals?; Shanghai Jiao Tong University
+Who were the members of the 2010 winning team?;Bin Jin, Zhao Zheng, and Zhuojie Wu 
+What medal did the 2010 winning team receive?; Gold
+What was the score of the 2010 winning team?; Not officially recorded
+What percentage of problems did the 2010 winning team solve?; Not officially recorded
+What was the penalty time for the 2010 winning team?; Not officially recorded
+What prize did the 2010 winning team receive?; Recognition and a trophy
+In which year did the ICPC first have over 100 participating countries?;2017
+Which city hosted the 2017 ICPC World Finals?;Rapid City, South Dakota 
+Which university hosted the 2017 ICPC World Finals?; South Dakota School of Mines and Technology
+Which team won the 2017 ICPC World Finals?; St. Petersburg ITMO University
+Who were the members of the 2017 winning team?;Mikhail Ipatov, Grigory Reznikov, and Vladislav Makeev 
+What medal did the 2017 winning team receive?; Gold
+What was the score of the 2017 winning team?; Not officially recorded
+What percentage of problems did the 2017 winning team solve?; Not officially recorded
+What was the penalty time for the 2017 winning team?; Not officially recorded
+What prize did the 2017 winning team receive?; Recognition and a trophy
+In which year did the ICPC World Finals first take place in Africa?;2019
+Which university won the ICPC World Finals in 2019?; Moscow State University
+Who were the members of the 2019 ICPC World Finals winning team?;Grigory Reznikov, Mikhail Ipatov, Vladislav Makeev 
+Which country did the 2019 ICPC World Finals winning team represent?; Russia
+What medal did the 2019 ICPC World Finals winning team receive?; Gold
+Which city hosted the 2019 ICPC World Finals?;Porto, Portugal 
+Which university hosted the 2019 ICPC World Finals?; University of Porto
+What was the venue for the 2019 ICPC World Finals?; Alfândega Congress Centre
+Which team secured the second place in the 2019 ICPC World Finals?; Massachusetts Institute of Technology
+Who were the members of the MIT team in the 2019 ICPC World Finals?;Andrew He, Kevin Sun, Yinzhan Xu 
+What medal did the MIT team receive in the 2019 ICPC World Finals?; Gold
+Which university ranked third in the 2019 ICPC World Finals?; University of Tokyo
+Who were the members of the University of Tokyo team in 2019?;Kohei Morita, Riku Kawasaki, Takuto Shigemura 
+What medal did the University of Tokyo team receive in 2019?; Gold
+Which university ranked fourth in the 2019 ICPC World Finals?; University of Warsaw
+Who were the members of the University of Warsaw team in 2019?;Jakub Boguta, Konrad Paluszek, Mateusz Radecki 
+What medal did the University of Warsaw team receive in 2019?; Gold
+Which university ranked fifth in the 2019 ICPC World Finals?; National Taiwan University
+Who were the members of the National Taiwan University team in 2019?;Chun-Sung Ferng, Po-Lung Chen, Shang-En Huang 
+What medal did the National Taiwan University team receive in 2019?; Silver
+Which university ranked sixth in the 2019 ICPC World Finals?; University of Wroclaw
+Who were the members of the University of Wroclaw team in 2019?;Antoni Buraczewski, Krzysztof Boryczka, Łukasz Pluta 
+What medal did the University of Wroclaw team receive in 2019?; Silver
+Which university ranked seventh in the 2019 ICPC World Finals?; Seoul National University
+Who were the members of the Seoul National University team in 2019?;Hyunseo Jeong, Jaemin Park, Seohyun Choi 
+What medal did the Seoul National University team receive in 2019?; Silver
+Which university ranked eighth in the 2019 ICPC World Finals?; Kim Chaek University of Technology
+Who were the members of the Kim Chaek University of Technology team in 2019?;Jong-Hyok Kim, Hyok-Chol Choe, Song-Chol Pak 
+What medal did the Kim Chaek University of Technology team receive in 2019?; Silver
+Which university ranked ninth in the 2019 ICPC World Finals?; Sharif University of Technology
+Who were the members of the Sharif University of Technology team in 2019?;Mohammad Mahdian, Ali Behrouzi, Mohammad Javad Ghasemi 
+What medal did the Sharif University of Technology team receive in 2019?; Bronze
+Which university ranked tenth in the 2019 ICPC World Finals?; Moscow Institute of Physics and Technology
+Who were the members of the Moscow Institute of Physics and Technology team in 2019?;Alexander Golovanov, Andrey Sergunin, Evgenii Belykh 
+What medal did the Moscow Institute of Physics and Technology team receive in 2019?; Bronze
+Which university ranked eleventh in the 2019 ICPC World Finals?; National Research University Higher School of Economics
+Who were the members of the National Research University Higher School of Economics team in 2019?;Ivan Safonov, Maksim Gorokhovskii, Timofei Fedoseev 
+What medal did the National Research University Higher School of Economics team receive in 2019?; Bronze
+Which university ranked twelfth in the 2019 ICPC World Finals?; The Chinese University of Hong Kong
+Who were the members of The Chinese University of Hong Kong team in 2019?;Hanfei Chen, Runyuan He, Zirong Zeng 
+What medal did The Chinese University of Hong Kong team receive in 2019?; Bronze
+Which university ranked thirteenth in the 2019 ICPC World Finals?; University of Zagreb
+Who were the members of the University of Zagreb team in 2019?;Dorijan Lendvaj, Krešimir Nežmah, Patrick Pavić 
+What medal did the University of Zagreb team receive in 2019?; Bronze
+Which university ranked fourteenth in the 2019 ICPC World Finals?; Jagiellonian University in Krakow
+Who were the members of the Jagiellonian University in Krakow team in 2019?;Antoni Długosz, Kacper Paciorek, Kacper Topolski 
+What medal did the Jagiellonian University in Krakow team receive in 2019?; Bronze
+Which university ranked fifteenth in the 2019 ICPC World Finals?; Universidad de Buenos Aires - FCEN
+Who were the members of the Universidad de Buenos Aires - FCEN team in 2019?;Carlos Miguel Soto, Ivo Pajor, Lautaro Lasorsa 
+What medal did the Universidad de Buenos Aires - FCEN team receive in 2019?; Bronze
+Which university ranked sixteenth in the 2019 ICPC World Finals?; Karlsruhe Institute of Technology
+Who were the members of the Karlsruhe Institute of Technology team in 2019?;Jonathan Dransfeld, Lucas Schwebler, Yidi Zang 
+What medal did the Karlsruhe Institute of Technology team receive in 2019?; Bronze
+Which university ranked seventeenth in the 2019 ICPC World Finals?; ETH Z�rich
+Who were the members of the ETH Zürich team in 2019?;Michal Stawarz, Paula Vidas, Theodor Moroianu 
+What medal did the ETH Z�rich team receive in 2019?; Bronze
+Which university ranked eighteenth in the 2019 ICPC World Finals?; University of Oxford
+Who were the members of the University of Oxford team in 2019?;Harris Leung, Thien Udomsrirungruang, Viktor Kozhuharov 
+What medal did the University of Oxford team receive in 2019?; Bronze
+Which university ranked nineteenth in the 2019 ICPC World Finals?; Harvard University
+Who were the members of the Harvard University team in 2019?;Andrew Gu, Gabriel Wu, Maxwell Zen 
+What medal did the Harvard University team receive in 2019?; Bronze
+Which university ranked twentieth in the 2019 ICPC World Finals?; St. Petersburg ITMO University
+Which university won the ICPC World Finals in 2024?; Peking University
+Who were the members of the Peking University team in 2024?;Anyi Xu, Weicheng Wang, Xiangwen Wang 
+What was the team name of Peking University in the 2024 ICPC World Finals?; Naive Birds
+Which country did the 2024 ICPC World Finals champion team represent?; China
+What medal did the Peking University team receive in 2024?; Gold
+What was the score of the Peking University team in the 2024 ICPC World Finals?; 9 problems solved
+What was the penalty time of the Peking University team in 2024?; 935 minutes
+What prize did the Peking University team receive in 2024?;World Champion and Asia East Champion with $16,200 
+Which university secured the second place in the 2024 ICPC World Finals?; Moscow Institute of Physics and Technology
+Who were the members of the Moscow Institute of Physics and Technology team in 2024?;Denis Mustafin, Tikhon Evteev, Vsevolod Nagibin 
+What was the team name of Moscow Institute of Physics and Technology in 2024?; Yolki-palki
+Which country did the second-place team represent in 2024?; Russia
+What medal did the Moscow Institute of Physics and Technology team receive in 2024?; Gold
+What was the score of the Moscow Institute of Physics and Technology team in 2024?; 9 problems solved
+What was the penalty time of the Moscow Institute of Physics and Technology team in 2024?;1,212 minutes 
+What prize did the Moscow Institute of Physics and Technology team receive in 2024?;Northern Eurasia Champion with $8,700 
+Which university secured the third place in the 2024 ICPC World Finals?; Tsinghua University
+Who were the members of the Tsinghua University team in 2024?;Hangrui Zhou, Shaoxuan Tang, Tingqiang Xu 
+What was the team name of Tsinghua University in 2024?; All the Way North
+Which country did the third-place team represent in 2024?; China
+What medal did the Tsinghua University team receive in 2024?; Gold
+What was the score of the Tsinghua University team in 2024?; 9 problems solved
+What was the penalty time of the Tsinghua University team in 2024?;1,218 minutes 
+What prize did the Tsinghua University team receive in 2024?;7500$
+Which university secured the fourth place in the 2024 ICPC World Finals?; Tokyo Institute of Technology
+Who were the members of the Tokyo Institute of Technology team in 2024?;Kosuke Kaneshita, Riku Kishida, Yasunori Kinoshita 
+What was the team name of Tokyo Institute of Technology in 2024?; tonosama
+Which country did the fourth-place team represent in 2024?; Japan
+What medal did the Tokyo Institute of Technology team receive in 2024?; Gold
+What was the score of the Tokyo Institute of Technology team in 2024?; 9 problems solved
+What was the penalty time of the Tokyo Institute of Technology team in 2024?;1,322 minutes 
+What prize did the Tokyo Institute of Technology team receive in 2024?;Asia Pacific Champion with $7,500 
+Which university secured the fifth place in the 2024 ICPC World Finals?; KAIST
+Who were the members of the KAIST team in 2024?;Eunsoo Choe, Jongyoung Lee, Sungjae Im 
+What was the team name of KAIST in 2024?; Penguins
+Which country did the fifth-place team represent in 2024?; South Korea
+What medal did the KAIST team receive in 2024?; Silver
+What was the score of the KAIST team in 2024?; 8 problems solved
+What was the penalty time of the KAIST team in 2024?; 868 minutes
+What prize did the KAIST team receive in 2024?;9600$
+Which university secured the sixth place in the 2024 ICPC World Finals?; National University of Singapore
+Who were the members of the National University of Singapore team in 2024?;Hong Duc Bui, Nyamdavaa Amar, Rama Aryasuta Pangestu 
+What was the team name of National University of Singapore in 2024?; absinthe
+Which country did the sixth-place team represent in 2024?; Singapore
+What medal did the National University of Singapore team receive in 2024?; Silver
+What was the score of the National University of Singapore team in 2024?; 8 problems solved
+What was the penalty time of the National University of Singapore team in 2024?; 934 minutes
+What prize did the National University of Singapore team receive in 2024?;6000$
+Which university secured the seventh place in the 2024 ICPC World Finals?; Beijing Jiaotong University
+Who were the members of the Beijing Jiaotong University team in 2024?;Heming Xia, Xiuyuan Si, Yuzhe Guo 
+What was the team name of Beijing Jiaotong University in 2024?; miemiemie
+Which country did the seventh-place team represent in 2024?; China
+What medal did the Beijing Jiaotong University team receive in 2024?; Silver
+What was the score of the Beijing Jiaotong University team in 2024?; 8 problems solved
+What was the penalty time of the Beijing Jiaotong University team in 2024?; 960 minutes
+What prize did the Beijing Jiaotong University team receive in 2024?;6000$
+Which university secured the eighth place in the 2024 ICPC World Finals?; The University of Tokyo
+Who were the members of The University of Tokyo team in 2024?;Akihito Yoneyama, Kentaro Matsushita, Ryomei Sugai 
+What was the team name of The University of Tokyo in 2024?; Speed Star
+Which country did the eighth-place team represent in 2024?; Japan
+What medal did The University of Tokyo team receive in 2024?; Silver
+What was the score of The University of Tokyo team in 2024?; 8 problems solved
+What was the penalty time of The University of Tokyo team in 2024?;1,031 minutes 
+What prize did The University of Tokyo team receive in 2024?;6000$
+Which university secured the ninth place in the 2024 ICPC World Finals?; Seoul National University
+Who were the members of the Seoul National University team in 2024?;Hyunseo Jeong, Jaemin Park, Seohyun Choi 
+What was the team name of Seoul National University in 2024?; NewTrend
+Which country did the ninth-place team represent in 2024?; South Korea
+What medal did the Seoul National University team receive in 2024?; Silver
+Which university won the ICPC World Finals in 2023?; National Research University Higher School of Economics
+Who were the members of the winning team in the 2023 ICPC World Finals?;Aleksandr Babin, Fedor Romashov, Kirill Kudriashov 
+What was the team name of the 2023 ICPC World Finals champions?; FFTilted
+Which country did the 2023 ICPC World Finals winning team represent?; Russia
+What medal did the winning team receive in the 2023 ICPC World Finals?; Gold
+How many problems did the winning team solve in the 2023 ICPC World Finals?;9
+What was the penalty time of the winning team in the 2023 ICPC World Finals?; 995 minutes
+What prize did the winning team receive in the 2023 ICPC World Finals?;World Champion and Northern Eurasia Champion with $15,000 
+Which university secured the second place in the 2023 ICPC World Finals?; Peking University
+Who were the members of the Peking University team in the 2023 ICPC World Finals?;Bo Peng, Shiyuan Feng, Yi Qian 
+What was the team name of Peking University in the 2023 ICPC World Finals?; Let It Rot
+Which country did the second-place team represent in the 2023 ICPC World Finals?; China
+What medal did the Peking University team receive in the 2023 ICPC World Finals?; Gold
+How many problems did the Peking University team solve in the 2023 ICPC World Finals?;9
+What was the penalty time of the Peking University team in the 2023 ICPC World Finals?;1,068 minutes 
+What prize did the Peking University team receive in the 2023 ICPC World Finals?;Asia East Champion with $8,700 
+Which university secured the third place in the 2023 ICPC World Finals?; Moscow Institute of Physics and Technology
+Who were the members of the Moscow Institute of Physics and Technology team in the 2023 ICPC World Finals?;Denis Mustafin, Tikhon Evteev, Vsevolod Nagibin 
+What was the team name of Moscow Institute of Physics and Technology in the 2023 ICPC World Finals?; Yolki-palki
+Which country did the third-place team represent in the 2023 ICPC World Finals?; Russia
+What medal did the Moscow Institute of Physics and Technology team receive in the 2023 ICPC World Finals?; Gold
+How many problems did the Moscow Institute of Physics and Technology team solve in the 2023 ICPC World Finals?;9
+What was the penalty time of the Moscow Institute of Physics and Technology team in the 2023 ICPC World Finals?;1,143 minutes 
+What prize did the Moscow Institute of Physics and Technology team receive in the 2023 ICPC World Finals?;8700$
+Which university secured the fourth place in the 2023 ICPC World Finals?; Harbour.Space University - Barcelona Campus
+Who were the members of the Harbour.Space University team in the 2023 ICPC World Finals?;Batyr Sardarbekov, Sergei Zolotarev, Yahor Dubovik 
+What was the team name of Harbour.Space University in the 2023 ICPC World Finals?; P+P+P
+Which country did the fourth-place team represent in the 2023 ICPC World Finals?; Spain
+What medal did the Harbour.Space University team receive in the 2023 ICPC World Finals?; Gold
+How many problems did the Harbour.Space University team solve in the 2023 ICPC World Finals?;9
+What was the penalty time of the Harbour.Space University team in the 2023 ICPC World Finals?;1,304 minutes 
+What prize did the Harbour.Space University team receive in the 2023 ICPC World Finals?;Europe Champion with $8,700 
+Which university secured the fifth place in the 2023 ICPC World Finals?; Tsinghua University
+Who were the members of the Tsinghua University team in the 2023 ICPC World Finals?;Guang Yang, Kai Luo, Yusi Chen 
+What was the team name of Tsinghua University in the 2023 ICPC World Finals?; there is a hand owning feet
+Which country did the fifth-place team represent in the 2023 ICPC World Finals?; China
+What medal did the Tsinghua University team receive in the 2023 ICPC World Finals?; Gold
+How many problems did the Tsinghua University team solve in the 2023 ICPC World Finals?;9
+What was the penalty time of the Tsinghua University team in the 2023 ICPC World Finals?;1,524 minutes 
+What prize did the Tsinghua University team receive in the 2023 ICPC World Finals?;6000$
+Which university secured the sixth place in the 2023 ICPC World Finals?; Nanjing University
+Who were the members of the Nanjing University team in the 2023 ICPC World Finals?;Chunyang Wang, Hongyang Liu, Xinyuan Zhang 
+What was the team name of Nanjing University in the 2023 ICPC World Finals?; triple_dogs
+Which country did the sixth-place team represent in the 2023 ICPC World Finals?; China
+What medal did the Nanjing University team receive in the 2023 ICPC World Finals?; Gold
+How many problems did the Nanjing University team solve in the 2023 ICPC World Finals?;8
+What was the penalty time of the Nanjing University team in the 2023 ICPC World Finals?;1,013 minutes 
+What prize did the Nanjing University team receive in the 2023 ICPC World Finals?;6000$
+Which university secured the seventh place in the 2023 ICPC World Finals?; Seoul National University
+Who were the members of the Seoul National University team in the 2023 ICPC World Finals?;Donghyun Kim, Harin Lee, Jeonghyun Ahn 
+What was the team name of Seoul National University in the 2023 ICPC World Finals?; HappyLastDance
+Which country did the seventh-place team represent in the 2023 ICPC World Finals?; South Korea
+What medal did the Seoul National University team receive in the 2023 ICPC World Finals?; Gold
+How many problems did the Seoul National University team solve in the 2023 ICPC World Finals?;8
+What was the penalty time of the Seoul National University team in the 2023 ICPC World Finals?;1,102 minutes 
+What prize did the Seoul National University team receive in the 2023 ICPC World Finals?;Asia Pacific Champion with $6,000 
+Which university secured the eighth place in the 2023 ICPC World Finals?; University of Waterloo
+Who were the members of the University of Waterloo team in the 2023 ICPC World Finals?;Andrew Tang, Kevin Wan, Ramazan Rakhmatullin 
+What was the team name of University of Waterloo in the 2023 ICPC World Finals?;Waterloo Black
